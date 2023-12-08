@@ -1,0 +1,8 @@
+Django==2.2
+
+keras
+tensorflow 
+matplotlib==3.3.3; platform_system != 'Darwin' and platform_system != 'Windows'
+
+
+mysql-connector-python==8.0.21
