@@ -1,5 +1,5 @@
 
-# Sentiment Analysis Web Application
+# Orginal to Paraphrase Web Application
 
 This is a simple movie sentiment analysis web application. It determines whether a given word is positive or negative and saves the predictions into a database.
 
@@ -97,9 +97,11 @@ Implement logic in views for loading the model and testing it. Handle HTTP metho
 Finally enable kubernetes in docker desktop
 
 
-![mysql](https://github.com/samanth2012/sentimentanalaysis/assets/114215621/b96b93a7-b464-4b55-83d5-0f4a1025dd7f)
 
-![MOVIE REVIEW ANALYSIS - Brave 08-12-2023 19_28_13](https://github.com/samanth2012/sentimentanalaysis/assets/114215621/b4a05a95-cfb5-4845-825b-10fa192ee251)
+![mysql](https://github.com/samanth2012/sentimentanalaysis/assets/114215621/6da2fd8d-b0d6-4cab-ad64-9c2b3044ff03)
 
-![MOVIE REVIEW ANALYSIS - Brave 08-12-2023 19_28_03](https://github.com/samanth2012/sentimentanalaysis/assets/114215621/101404d2-5495-4da4-84e1-dd10f1e708ac)
+![ParaphraseR - Brave 10-12-2023 16_01_05](https://github.com/samanth2012/sentimentanalaysis/assets/114215621/4e8f3050-1894-4c91-86e2-7580de58932a)
+
+![ParaphraseR - Brave 10-12-2023 16_01_45](https://github.com/samanth2012/sentimentanalaysis/assets/114215621/3df44bbf-b396-435b-896b-bb3c64616910)
+
 
