@@ -3,6 +3,7 @@
 ## Installation Process
 
 1. **Create AI Model:**
+2.  **Docker Installation**
    - Install Docker for Windows and sign up.
    - Create a Dockerfile and a docker-compose file.
    - Run the following command to create a Django project:
@@ -10,7 +11,7 @@
      docker-compose run web django startproject project_name
      ```
 
-2. **Docker File (Dockerfile):**
+3. **Docker File (Dockerfile):**
    ```dockerfile
    FROM python:3.10.3
 
