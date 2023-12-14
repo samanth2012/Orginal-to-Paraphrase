@@ -1,8 +1,5 @@
 
 # Orginal to Paraphrase Web Application
-
-This is a simple movie sentiment analysis web application. It determines whether a given word is positive or negative and saves the predictions into a database.
-
 ## Installation Process
 
 1. **Create AI Model:**
