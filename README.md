@@ -92,15 +92,11 @@ DATABASES = {
 View Logic for Model Testing:
 Implement logic in views for loading the model and testing it. Handle HTTP methods appropriately, especially POST requests if you are using a form for input.
 
+
 Finally enable kubernetes in docker desktop
 
+![mysql](https://github.com/samanth2012/Movie-Review-analysis/assets/114215621/f38fc881-c94e-44b4-9a6c-7d679d1b3d36)
+![ParaphraseR - Brave 10-12-2023 16_01_05](https://github.com/samanth2012/Movie-Review-analysis/assets/114215621/1f5f07b2-2d27-4b66-bd46-c20b94e94946)
+![ParaphraseR - Brave 10-12-2023 16_01_45](https://github.com/samanth2012/Movie-Review-analysis/assets/114215621/5094b176-1dd0-4acf-9cac-c74493e6d75e)
 
-
-
-![MySQL 8 0 Command Line Client 08-12-2023 18_07_08](https://github.com/samanth2012/Orginal-to-Paraphrase/assets/114215621/67d6f934-e7cc-456c-b0e0-702fe8793599)
-
-![MOVIE REVIEW ANALYSIS - Brave 08-12-2023 19_28_03](https://github.com/samanth2012/Orginal-to-Paraphrase/assets/114215621/e00f1bd3-b3a4-4282-90df-89a907daab3f)
-
-
-![MOVIE REVIEW ANALYSIS - Brave 08-12-2023 19_28_13](https://github.com/samanth2012/Orginal-to-Paraphrase/assets/114215621/9e3b20f0-c5b2-4e21-91f7-c2914a4b8ab6)
 
