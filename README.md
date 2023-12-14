@@ -95,10 +95,11 @@ Finally enable kubernetes in docker desktop
 
 
 
-![mysql](https://github.com/samanth2012/sentimentanalaysis/assets/114215621/6da2fd8d-b0d6-4cab-ad64-9c2b3044ff03)
 
-![ParaphraseR - Brave 10-12-2023 16_01_05](https://github.com/samanth2012/sentimentanalaysis/assets/114215621/4e8f3050-1894-4c91-86e2-7580de58932a)
+![MySQL 8 0 Command Line Client 08-12-2023 18_07_08](https://github.com/samanth2012/Orginal-to-Paraphrase/assets/114215621/67d6f934-e7cc-456c-b0e0-702fe8793599)
 
-![ParaphraseR - Brave 10-12-2023 16_01_45](https://github.com/samanth2012/sentimentanalaysis/assets/114215621/3df44bbf-b396-435b-896b-bb3c64616910)
+![MOVIE REVIEW ANALYSIS - Brave 08-12-2023 19_28_03](https://github.com/samanth2012/Orginal-to-Paraphrase/assets/114215621/e00f1bd3-b3a4-4282-90df-89a907daab3f)
 
+
+![MOVIE REVIEW ANALYSIS - Brave 08-12-2023 19_28_13](https://github.com/samanth2012/Orginal-to-Paraphrase/assets/114215621/9e3b20f0-c5b2-4e21-91f7-c2914a4b8ab6)
 
