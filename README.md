@@ -1,5 +1,5 @@
 
-# Orginal to Paraphrase Web Application
+# Movie-Review sentiment analysis Web Application
 ## Installation Process
 
 1. **Create AI Model:**
