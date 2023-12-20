@@ -1,5 +1,5 @@
 
-# Movie-Review sentiment analysis Web Application
+# Paraphraser
 ## Installation Process
 
 1. **Create AI Model:**
